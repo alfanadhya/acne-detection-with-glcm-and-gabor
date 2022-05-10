@@ -1,3 +1,3 @@
 # acne-detection-with-glcm-and-gabor
-This is a code for my undergrduate thesis with the title below.
+This is a code for my undergrduate thesis with the title below. <br>
 COMPARISON OF TEXTURE FEATURE EXTRACTION METHODS FOR ASSESSMENT OF ACNE SEVERITY IN HUMAN FACE IMAGES
